@@ -30,7 +30,7 @@
     {
       "unit-type": "lu",
       "label": "Selection Sort",
-      "basedir": "quick-sort",
+      "basedir": "selection-sort",
       "units": [
         {
           "unit-type": "aim"
