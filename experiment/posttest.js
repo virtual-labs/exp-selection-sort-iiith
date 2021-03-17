@@ -89,58 +89,58 @@
 
 
     const myQuestions = [{
-            question: "1. Sample question1", ///// Write the question inside double quotes
+            question: "1. Which among the following is an advantage of Selection Sort over other sorting algorithms? ", ///// Write the question inside double quotes
             answers: {
-                a: "1", ///// Write the option 1 inside double quotes
-                b: "2", ///// Write the option 2 inside double quotes
- 		c: "3", ///// Write the option 3 inside double quotes
-                d: "4", ///// Write the option 4 inside double quotes
+                a: "Faster than others", ///// Write the option 1 inside double quotes
+                b: "It does not require additional storage spaces ", ///// Write the option 2 inside double quotes
+ 		c: "Very efficient ", ///// Write the option 3 inside double quotes
+                d: "Suitable for long lists ", ///// Write the option 4 inside double quotes
             },
-            correctAnswer: "c" ///// Write the correct option inside double quotes
+            correctAnswer: "b" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "2.Sample question2",  ///// Write the question inside double quotes
+      question: "2. What is the average and best case time complexity of Selection Sort?",  ///// Write the question inside double quotes
       answers: {
-        a: "1",                  ///// Write the option 1 inside double quotes
-        b: "2",                  ///// Write the option 2 inside double quotes
-	c: "3", ///// Write the option 3 inside double quotes
-        d: "4", ///// Write the option 4 inside double quotes
+        a: "O(n<sup>2</sup>), O(n<sup>2</sup>) ",                  ///// Write the option 1 inside double quotes
+        b: "O(n<sup>2</sup>), O(n)",                  ///// Write the option 2 inside double quotes
+	c: "O(n<sup>2</sup>), O(nlogn)", ///// Write the option 3 inside double quotes
+        d: "None of these", ///// Write the option 4 inside double quotes
               },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
 {
-      question: "3. Sample question3",  ///// Write the question inside double quotes
+      question: "3. Given array = {11,12,13,10,9}. Number of iterations required by Bubble Sort and Selection Sort are?",  ///// Write the question inside double quotes
       answers: {
-        a: "1",                  ///// Write the option 1 inside double quotes
-        b: "2",                  ///// Write the option 2 inside double quotes
-	c: "3", ///// Write the option 3 inside double quotes
-        d: "4", ///// Write the option 4 inside double quotes
+        a: "5,4 ",                  ///// Write the option 1 inside double quotes
+        b: "4,4",                  ///// Write the option 2 inside double quotes
+	c: "4,6 ", ///// Write the option 3 inside double quotes
+        d: "5,5 ", ///// Write the option 4 inside double quotes
               },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
 {
-      question: "4.Sample question3",  ///// Write the question inside double quotes
+      question: "4. What are the correct intermediate steps when you perform Selection Sort on [2, 7, -3, 5]? ",  ///// Write the question inside double quotes
       answers: {
-        a: "1",                  ///// Write the option 1 inside double quotes
-        b: "2",                  ///// Write the option 2 inside double quotes
-	c: "3", ///// Write the option 3 inside double quotes
-        d: "4", ///// Write the option 4 inside double quotes
-	e: "5 ", ///// Write the option 5 inside double quotes
+        a: "[-3, 2, 7, 5] -> [-3, 2, 5, 7] ",                  ///// Write the option 1 inside double quotes
+        b: " [-3, 7, 2, 5] -> [-3, 2, 7, 5] -> [-3, 2, 5, 7] ",                  ///// Write the option 2 inside double quotes
+	c: "[-3, 7, 5, 2] -> [-3, 2, 5, 7] ", ///// Write the option 3 inside double quotes
+        d: "[-3, 7, 2, 5] -> [-3, 5, 2, 7] -> [-3, 2, 5, 7] ", ///// Write the option 4 inside double quotes
+	 
               },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
 {
-      question: "5. Sample question5",  ///// Write the question inside double quotes
+      question: "5. Predict the structure of Selection Sort?",  ///// Write the question inside double quotes
       answers: {
-        a: "1",                  ///// Write the option 1 inside double quotes
-        b: "2",                  ///// Write the option 2 inside double quotes
-	c: "3 ", ///// Write the option 3 inside double quotes
-        d: "4", ///// Write the option 4 inside double quotes
-	e: "5", ///// Write the option 4 inside double quotes
+        a: "One Loop",                  ///// Write the option 1 inside double quotes
+        b: "Two loops",                  ///// Write the option 2 inside double quotes
+	c: "Two lops in a loop  ", ///// Write the option 3 inside double quotes
+        d: "Loop inside a loop ", ///// Write the option 4 inside double quotes
+	
               },
       correctAnswer: "d"                ///// Write the correct option inside double quotes
     },
