@@ -22,7 +22,7 @@ And above all, a curiosity to learn and explore!
 Module 	Weightage 	|Expectation|
 |-----------|----------|------------|
 |Pre-test 	|15% 	|Solve All Questions|
-|Selection Sort 	35% 	|Understand the Selection sort algorithm|
+|Selection Sort |	35% 	|Understand the Selection sort algorithm|
 |Analysis 	|25% 	|Understand the time and space complexity|
 |Post-test 	|25% 	|Solve all Questions|
 

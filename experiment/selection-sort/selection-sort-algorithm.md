@@ -3,6 +3,7 @@
 In Selection Sort, we take the simplest, most intuitive approach to sort an array. Choose the smallest number, place it in the first position. Then choose the next smallest number out of the remaining elements, and place it in the second position and so on till the end!
 ### Intuition Behind the Algorithm
 <img src="images/selection_concept.png"/>
+
 ### Selection Sort Concept
 
 Now that we have understood the basic intuition behind this algorithm, let's see how we can perform it in a systematic way :
