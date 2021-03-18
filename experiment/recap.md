@@ -1,8 +1,10 @@
 ### What is Sorting?
 
 Given a list of random numbers, sorting means ordering the numbers in either ascending or descending order. By default, we sort numbers in an ascending order.
+
 ### Unsorted and Sorted arrays
-<img src="images/swap.png"/>
+<img src="images/sort.png"/>
+
 ### Time and Space Complexity
 
    - Time complexity of an algorithm gives the measure of time taken by it to run as a function of the length of the input. Similarly, Space complexity of an algorithm quantifies the amount of space or memory taken by an algorithm to run as a function of the length of the input.
@@ -12,6 +14,7 @@ Given a list of random numbers, sorting means ordering the numbers in either asc
 ### Estimated Time for Pre Test Quiz
 
 10 minutes
+
 ### Instructions for  Pre Test Quiz
 
    - Pretest includes **questions on sorting, time complexity and space complexity**.
