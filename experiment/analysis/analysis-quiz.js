@@ -89,46 +89,46 @@
 
 
      const myQuestions = [{
-            question: "1. Sample question1", ///// Write the question inside double quotes
+            question: "1.  What is the time complexity of Selection Sort?", ///// Write the question inside double quotes
             answers: {
-                a: "1", ///// Write the option 1 inside double quotes
-                b: "2", ///// Write the option 2 inside double quotes
-                c: "3", ///// Write the option 2 inside double quotes
-                d: "4", ///// Write the option 2 inside double quotes
+                a: " Average case O(n<sup>2</sup>)) ", ///// Write the option 1 inside double quotes
+                b: "Best case O(n<sup>2</sup>) ", ///// Write the option 2 inside double quotes
+                c: "Worst case O(n<sup>2</sup>)  ", ///// Write the option 2 inside double quotes
+                d: "All the above ", ///// Write the option 2 inside double quotes
             },
-            correctAnswer: "b" ///// Write the correct option inside double quotes
+            correctAnswer: "d" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "2. Sample question2",  ///// Write the question inside double quotes
+      question: "2. Is Selection Sort stable?",  ///// Write the question inside double quotes
       answers: {
-        a: "1",                  ///// Write the option 1 inside double quotes
-        b: "2",                  ///// Write the option 2 inside double quotes
-	c: "3", ///// Write the option 3 inside double quotes
-        d: "4", ///// Write the option 4 inside double quotes
+        a: "Yes  ",                  ///// Write the option 1 inside double quotes
+        b: " No",                  ///// Write the option 2 inside double quotes
+	c: "Depends  ", ///// Write the option 3 inside double quotes
+        d: "Can't say", ///// Write the option 4 inside double quotes
              },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
 {
-      question: "3. Sample question3",  ///// Write the question inside double quotes
+      question: "3. Compare best case time complexities of Selection Sort and Bubble Sort  ",  ///// Write the question inside double quotes
       answers: {
-        a: "1",                  ///// Write the option 1 inside double quotes
-        b: "2",                  ///// Write the option 2 inside double quotes
-	c: "3", ///// Write the option 3 inside double quotes
-        d: "4", ///// Write the option 4 inside double quotes
+        a: " Equal ",                  ///// Write the option 1 inside double quotes
+        b: "Bubble sort is better  ",                  ///// Write the option 2 inside double quotes
+	c: " Selection Sort is better  ", ///// Write the option 3 inside double quotes
+        d: "Unequal ", ///// Write the option 4 inside double quotes
              },
-      correctAnswer: "d"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 {
-      question: "4. Sample question4",  ///// Write the question inside double quotes
+      question: "4.  int a = 0, b = 0;<br>for (i = 0; i < N; i++) {<br>a = a + rand();<br>}<br>for (j = 0; j < M; j++) {<br>b = b + rand();<br>}<br>What is the time and space complexity for the above code? ",  ///// Write the question inside double quotes
       answers: {
-        a: "1",                  ///// Write the option 1 inside double quotes
-        b: "2",                  ///// Write the option 2 inside double quotes
-	c: "3", ///// Write the option 3 inside double quotes
-        d: "4", ///// Write the option 4 inside double quotes
+        a: "O(N * M) time, O(1) space ",                  ///// Write the option 1 inside double quotes
+        b: "O(N + M) time, O(N + M) space ",                  ///// Write the option 2 inside double quotes
+	c: "O(N + M) time, O(1) space", ///// Write the option 3 inside double quotes
+        d: "O(N * M) time, O(N + M) space ", ///// Write the option 4 inside double quotes
              },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
      ];

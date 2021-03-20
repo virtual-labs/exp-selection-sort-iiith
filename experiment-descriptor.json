@@ -1,0 +1,156 @@
+{
+  "unit-type": "lu",
+  "label": "Selection Sort",
+  "basedir": ".",
+  "units": [
+    {
+      "unit-type": "aim"
+    },
+    {
+      "unit-type": "task",
+      "label": "Overview",
+      "content-type": "video",
+      "source": "overview.md",
+      "target": "overview.html"
+    },
+    {
+      "unit-type": "task",
+      "label": "Recap",
+      "content-type": "video",
+      "source": "recap.md",
+      "target": "recap.html"
+    },
+    {
+      "unit-type": "task",
+      "label": "Pre Test Quiz",
+      "content-type": "assesment",
+      "source": "pretest.js",
+      "target": "pretest.html"
+    },
+    {
+      "unit-type": "lu",
+      "label": "Selection Sort",
+      "basedir": "selection-sort",
+      "units": [
+        {
+          "unit-type": "aim"
+        },
+        {
+          "unit-type": "task",
+          "label": "Overview",
+          "content-type": "video",
+          "source": "overview.md",
+          "target": "overview.html"
+        },
+	{
+          "unit-type": "task",
+          "label": "Selection Sort Algorithm",
+          "content-type": "video",
+          "source": "selection-sort-algorithm.md",
+          "target": "selection-sort-algorithm.html"
+        },
+        
+        {
+          "unit-type": "task",
+          "label": "Selection Sort Demo",
+          "content-type": "simulation",
+          "source": "simulation/selection_demo.html",
+          "target": "selection_demo.html"
+        },
+	
+        {
+          "unit-type": "task",
+          "label": "Selection Sort Practice",
+          "content-type": "simulation",
+          "source": "simulation/selection_practice.html",
+          "target": "selection_practice.html"
+        },
+	{
+          "unit-type": "task",
+          "label": "Selection Sort Exercise",
+          "content-type": "simulation",
+          "source": "simulation/selection_ex.html",
+          "target": "selection_ex.html"
+        },
+	
+	{
+         "unit-type": "task",
+         "label": "Selection Sort Quiz",
+         "content-type": "assesment",
+         "source": "selection-sort-quiz.js",
+         "target": "selection-sort-quiz.html"
+       }
+      
+      ]
+    },
+   
+        {
+      "unit-type": "lu",
+      "label": "Analysis",
+      "basedir": "analysis",
+      "units": [
+        {
+          "unit-type": "aim"
+        },
+	{
+          "unit-type": "task",
+          "label": "Overview",
+          "content-type": "video",
+          "source": "overview.md",
+          "target": "overview.html"
+        },
+        {
+          "unit-type": "task",
+          "label": "Time and Space Complexity",
+          "content-type": "video",
+          "source": "time-and-space-complexity.md",
+          "target": "time-and-space-complexity.html"
+        },
+	{
+          "unit-type": "task",
+          "label": "Demo : Selection Sort Time Complexity",
+          "content-type": "simulation",
+          "source": "simulation/selection_time.html",
+          "target": "selection_time.html"
+        },
+	{
+          "unit-type": "task",
+          "label": "Stability of Selection Sort",
+          "content-type": "video",
+          "source": "stability-of-selection-sort.md",
+          "target": "stability-of-selection-sort.html"
+        },
+        {
+          "unit-type": "task",
+          "label": "Comparison with other Algorithms",
+          "content-type": "video",
+          "source": "comparison-with-other-algorithms.md",
+          "target": "comparison-with-other-algorithms.html"
+        },
+        {
+          "unit-type": "task",
+          "label": "Analysis Quiz",
+          "content-type": "assesment",
+          "source": "analysis-quiz.js",
+          "target": "analysis-quiz.html"
+        }
+      ]
+    },
+    
+    {
+      "unit-type": "task",
+      "label": "Post Test Quiz",
+      "content-type": "assesment",
+      "source": "posttest.js",
+      "target": "posttest.html"
+    },
+       
+    {
+      "unit-type": "task",
+      "label": "Further Readings/References",
+      "content-type": "text",
+      "source": "further-reading-and-references.md",
+      "target": "further-reading-and-references.html"
+    }
+  ]
+}
