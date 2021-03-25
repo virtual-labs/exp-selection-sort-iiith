@@ -44,7 +44,7 @@
         },
 	{
           "unit-type": "task",
-          "label": "Selection Sort Algorithm",
+          "label": "Algorithm",
           "content-type": "video",
           "source": "selection-sort-algorithm.md",
           "target": "selection-sort-algorithm.html"
@@ -52,7 +52,7 @@
         
         {
           "unit-type": "task",
-          "label": "Selection Sort Demo",
+          "label": "Demo",
           "content-type": "simulation",
           "source": "simulation/selection_demo.html",
           "target": "selection_demo.html"
@@ -60,14 +60,14 @@
 	
         {
           "unit-type": "task",
-          "label": "Selection Sort Practice",
+          "label": "Practice",
           "content-type": "simulation",
           "source": "simulation/selection_practice.html",
           "target": "selection_practice.html"
         },
 	{
           "unit-type": "task",
-          "label": "Selection Sort Exercise",
+          "label": "Exercise",
           "content-type": "simulation",
           "source": "simulation/selection_ex.html",
           "target": "selection_ex.html"
@@ -75,7 +75,7 @@
 	
 	{
          "unit-type": "task",
-         "label": "Selection Sort Quiz",
+         "label": "Quiz",
          "content-type": "assesment",
          "source": "selection-sort-quiz.js",
          "target": "selection-sort-quiz.html"
@@ -108,7 +108,7 @@
         },
 	{
           "unit-type": "task",
-          "label": "Demo : Selection Sort Time Complexity",
+          "label": "Demo",
           "content-type": "simulation",
           "source": "simulation/selection_time.html",
           "target": "selection_time.html"
@@ -129,7 +129,7 @@
         },
         {
           "unit-type": "task",
-          "label": "Analysis Quiz",
+          "label": "Quiz",
           "content-type": "assesment",
           "source": "analysis-quiz.js",
           "target": "analysis-quiz.html"
