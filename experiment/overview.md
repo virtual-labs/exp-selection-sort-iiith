@@ -1,5 +1,3 @@
-
-### Introduction
 <iframe src="https://www.youtube.com/embed/U2uZevltys4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Prerequisites of the Experiment
@@ -17,7 +15,7 @@ And above all, a curiosity to learn and explore!
 
 ### Experiment Modules & their Weightage
 
-Module 	Weightage 	|Expectation|
+|Module 	|Weightage 	|Expectation|
 |-----------|----------|------------|
 |Pre-test 	|15% 	|Solve All Questions|
 |Selection Sort |	35% 	|Understand the Selection sort algorithm|
