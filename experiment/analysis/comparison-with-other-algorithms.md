@@ -1,7 +1,8 @@
 ### Graph : Time Complexities of Sorting Algorithms
 <img src="images/comparison.png"/>
+
 ### Comparison with other sorting algorithms
- 	 	
+	 	
 |Algorithm Sort 	|Algorithm Average 	|Time Best 	|Time Worst 	|Features Space 	|Features Stability|
 |-----------------------|-----------------------|---------------|---------------|-----------------------|------------------|
 |Modified Selection Sort 	|O(n<sup>2</sup>)|O(n<sup>2</sup>)| 	O(n<sup>2</sup>)|Constant|Stable|
