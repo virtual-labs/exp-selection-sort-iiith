@@ -121,16 +121,7 @@
              },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
-{
-      question: "4.  int a = 0, b = 0;<br>for (i = 0; i < N; i++) {<br>a = a + rand();<br>}<br>for (j = 0; j < M; j++) {<br>b = b + rand();<br>}<br>What is the time and space complexity for the above code? ",  ///// Write the question inside double quotes
-      answers: {
-        a: "O(N * M) time, O(1) space ",                  ///// Write the option 1 inside double quotes
-        b: "O(N + M) time, O(N + M) space ",                  ///// Write the option 2 inside double quotes
-	c: "O(N + M) time, O(1) space", ///// Write the option 3 inside double quotes
-        d: "O(N * M) time, O(N + M) space ", ///// Write the option 4 inside double quotes
-             },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },
+
 
      ];
 
