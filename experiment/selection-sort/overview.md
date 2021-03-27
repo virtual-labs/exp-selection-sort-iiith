@@ -1,7 +1,3 @@
-
-### Selection Sort Concept
-<iframe src="https://www.youtube.com/embed/49LPQB246wY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Selection Sort Concept
 
 Now that we have understood the basic intuition behind this algorithm, let's see how we can perform it in a systematic way :

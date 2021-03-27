@@ -1,10 +1,11 @@
-### How can we sort an array?
+### Selection Sort Algorithm 
+<iframe src="https://www.youtube.com/embed/49LPQB246wY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+### How can we sort an array?
 In Selection Sort, we take the simplest, most intuitive approach to sort an array. Choose the smallest number, place it in the first position. Then choose the next smallest number out of the remaining elements, and place it in the second position and so on till the end!
+
 ### Intuition Behind the Algorithm
 <img src="images/selection_concept.png"/>
-
-
 
 ### Selection Sort Algorithm
 <img src="images/selection_algorithm.png"/>
