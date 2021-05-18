@@ -20,6 +20,13 @@
       "source": "recap.md",
       "target": "recap.html"
     },
+	{
+      "unit-type": "task",
+      "label": "Pretest",
+      "content-type": "assesment",
+      "source": "pretest.json",
+      "target": "pretest.html"
+    },
     {
       "unit-type": "lu",
       "label": "Selection Sort",
@@ -64,7 +71,14 @@
           "content-type": "simulation",
           "source": "simulation/selection_ex.html",
           "target": "selection_ex.html"
-        }
+        },
+	{
+      "unit-type": "task",
+      "label": "Quiz",
+      "content-type": "assesment",
+      "source": "selection-sort-quiz.json",
+      "target": "selection-sort-quiz.html"
+    }
       
       ]
     },
@@ -111,10 +125,23 @@
           "content-type": "video",
           "source": "comparison-with-other-algorithms.md",
           "target": "comparison-with-other-algorithms.html"
-        }
+        },
+	{
+      "unit-type": "task",
+      "label": "Quiz",
+      "content-type": "assesment",
+      "source": "analysis-quiz.json",
+      "target": "analysis-quiz.html"
+    }
       ]
     },
-
+{
+      "unit-type": "task",
+      "label": "Posttest",
+      "content-type": "assesment",
+      "source": "posttest.json",
+      "target": "posttest.html"
+    },
     {
       "unit-type": "task",
       "label": "Further Readings/References",
