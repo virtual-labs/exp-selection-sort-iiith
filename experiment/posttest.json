@@ -1,1 +1,44 @@
-[{"question":"1. Which among the following is an advantage of Selection Sort over other sorting algorithms? ","answers":{"a":"Faster than others","b":"It does not require additional storage spaces ","c":"Very efficient ","d":"Suitable for long lists "},"correctAnswer":"b"},{"question":"2. What is the average and best case time complexity of Selection Sort?","answers":{"a":"O(n<sup>2</sup>), O(n<sup>2</sup>) ","b":"O(n<sup>2</sup>), O(n)","c":"O(n<sup>2</sup>), O(nlogn)","d":"None of these"},"correctAnswer":"a"},{"question":"3. Given array = {11,12,13,10,9}. Number of iterations required by Bubble Sort and Selection Sort are?","answers":{"a":"5,4 ","b":"4,4","c":"4,6 ","d":"5,5 "},"correctAnswer":"b"},{"question":"4. What are the correct intermediate steps when you perform Selection Sort on [2, 7, -3, 5]? ","answers":{"a":"[-3, 2, 7, 5] -> [-3, 2, 5, 7] ","b":" [-3, 7, 2, 5] -> [-3, 2, 7, 5] -> [-3, 2, 5, 7] ","c":"[-3, 7, 5, 2] -> [-3, 2, 5, 7] ","d":"[-3, 7, 2, 5] -> [-3, 5, 2, 7] -> [-3, 2, 5, 7] "},"correctAnswer":"b"},{"question":"5. Predict the structure of Selection Sort?","answers":{"a":"One Loop","b":"Two loops","c":"Two lops in a loop  ","d":"Loop inside a loop "},"correctAnswer":"d"}]
+[{
+	"question": "1. Selection sort has the same average case time complexity as worst-case time complexity ",
+	"answers": {
+		"a": "True",
+		"b": "False"
+	},
+	"correctAnswer": "a"
+}, {
+	"question": "2. In which case selection sort can be used?",
+	"answers": {
+		"a": "For a fast and efficient sorting",
+		"b": "For memory efficient sorting",
+		"c": "Sorting without comparisons",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "3. Pick the incorrect step in selection sorting",
+	"answers": {
+		"a": "Find the smallest element with the least index, such that index≤i≤N-1. ",
+		"b": "Swap the element at index i with the element at index i+1",
+		"c": "Swap the smallest element found with the element at index i. ",
+		"d": "None of the above"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "4. What are the correct intermediate steps when you perform Selection Sort on [2, 7, -3, 5]? ",
+	"answers": {
+		"a": "[-3, 2, 7, 5] -> [-3, 2, 5, 7] ",
+		"b": " [-3, 7, 2, 5] -> [-3, 2, 7, 5] -> [-3, 2, 5, 7] ",
+		"c": "[-3, 7, 5, 2] -> [-3, 2, 5, 7]",
+		"d": "[-3, 7, 2, 5] -> [-3, 5, 2, 7] -> [-3, 2, 5, 7]"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "How many loops will be there in the Selection sort code?",
+	"answers": {
+		"a": "One Loop",
+		"b": "Two nested loops",
+		"c": "Two separate loops",
+		"d": "Three separate loops "
+	},
+	"correctAnswer": "b"
+}]
