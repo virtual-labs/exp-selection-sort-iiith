@@ -1,0 +1,19 @@
+[{
+	"question": "1. What is the maximum number of comparisons in one iteration for an array of size N?",
+	"answers": {
+		"a": "N/2",
+		"b": "2*N ",
+		"c": "N ",
+		"d": "N^2 "
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "2. If an array is [6,1,9,10] which element will be sorted first by selection sort",
+	"answers": {
+		"a": "9 ",
+		"b": " 10",
+		"c": "1",
+		"d": "6 "
+	},
+	"correctAnswer": "c"
+}]

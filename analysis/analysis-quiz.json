@@ -1,0 +1,17 @@
+[{
+	"question": "1.  Selection sort is an unstable sorting algorithm",
+	"answers": {
+		"a": "True ",
+		"b": "False"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "2. Pick the correct worst-case time complexity for the selection sort algorithm",
+	"answers": {
+		"a": "O(N) ",
+		"b": " O(NLogN)",
+		"c": "O(N^2) ",
+		"d": "O(N^3)"
+	},
+	"correctAnswer": "c"
+}]
