@@ -112,13 +112,6 @@
           "source": "simulation/selection_time.html",
           "target": "selection_time.html"
         },
-	{
-          "unit-type": "task",
-          "label": "Stability of Selection Sort",
-          "content-type": "video",
-          "source": "stability-of-selection-sort.md",
-          "target": "stability-of-selection-sort.html"
-        },
         {
           "unit-type": "task",
           "label": "Comparison with other Algorithms",
