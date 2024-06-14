@@ -141,6 +141,15 @@
       "content-type": "text",
       "source": "further-reading-and-references.md",
       "target": "further-reading-and-references.html"
+    },
+    {
+      "code-assessment": {
+        "include": true,
+        "languages": [
+          "javascript"
+        ],
+        "position": 5
+      }
     }
   ]
 }
