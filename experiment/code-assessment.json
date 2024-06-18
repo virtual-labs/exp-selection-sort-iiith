@@ -1,5 +1,6 @@
 {
-    "experiment name": "Selection Sort",
+    "version": 1,
+    "experiment name": "Experiment Name",
     "problems": [
         {
             "problem name": "Problem 1",

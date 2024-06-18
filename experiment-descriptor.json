@@ -7,7 +7,7 @@
     "languages": [
       "javascript"
     ],
-    "position": 6
+    "position": 5
   },
   "units": [
     {
@@ -144,15 +144,6 @@
       "content-type": "text",
       "source": "further-reading-and-references.md",
       "target": "further-reading-and-references.html"
-    },
-    {
-      "code-assessment": {
-        "include": true,
-        "languages": [
-          "javascript"
-        ],
-        "position": 5
-      }
     }
   ]
 }
