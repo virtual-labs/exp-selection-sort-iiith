@@ -1,0 +1,15 @@
+{
+    "experiment name": "Selection Sort",
+    "problems": [
+        {
+            "problem name": "Problem 1",
+            "description": "Implement the selection sort algorithm for the given input array",
+            "inputs": [
+                [29, 10, 14, 37, 13]
+            ],
+            "expected": [10, 13, 14, 29, 37],
+            "inputs description": "Input consists of an array of unsorted array - inp1. It may be of arbitrary length.",
+            "expected description": "An array of numbers Eg. 1,2,4,5 sorted in ascending orders"
+        }
+    ]
+}

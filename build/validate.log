@@ -1,0 +1,58 @@
+{
+  _: [],
+  f: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+/units/8: The basedir is required
+
+/units/8: The units are required
+
+/units/8: must match "then" schema
+
+/units/8: The unit-type is required
+
+Json Error: There are additional properties
+Json Error: must match "then" schema
+Failed while validating /Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json
+Error: Schema is Invalid
+{
+  _: [],
+  f: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+/units/8: The basedir is required
+
+/units/8: The units are required
+
+/units/8: must match "then" schema
+
+/units/8: The unit-type is required
+
+Json Error: There are additional properties
+Json Error: must match "then" schema
+Failed while validating /Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json
+Error: Schema is Invalid
+{
+  _: [],
+  f: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json'
+  ],
+  files: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Json Error: There are additional properties
+Json Error: must match "then" schema
+Failed while validating /Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment-descriptor.json
+Error: Schema is Invalid

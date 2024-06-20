@@ -1,0 +1,60 @@
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/analysis/simulation/js/realization.js
+  1:5  warning  'realizationCatalog' is assigned a value but never used  no-unused-vars
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/analysis/simulation/js/selection_demo.js
+   17:4   warning  Unnecessary semicolon                  no-extra-semi
+   18:2   warning  Unnecessary semicolon                  no-extra-semi
+  100:10  warning  'selection' is defined but never used  no-unused-vars
+  127:2   warning  Unnecessary semicolon                  no-extra-semi
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/analysis/simulation/js/selection_ex.js
+   21:4   warning  Unnecessary semicolon                  no-extra-semi
+   22:2   warning  Unnecessary semicolon                  no-extra-semi
+   46:11  warning  'i' is already defined                 no-redeclare
+  104:10  warning  'selection' is defined but never used  no-unused-vars
+  148:7   warning  'pause' is not defined                 no-undef
+  228:2   warning  Unnecessary semicolon                  no-extra-semi
+  232:2   warning  Unnecessary semicolon                  no-extra-semi
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/analysis/simulation/js/selection_practice.js
+  19:4   warning  Unnecessary semicolon                  no-extra-semi
+  20:2   warning  Unnecessary semicolon                  no-extra-semi
+  78:10  warning  'selection' is defined but never used  no-unused-vars
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/analysis/simulation/js/selection_time.js
+   19:4   warning  Unnecessary semicolon                  no-extra-semi
+   20:2   warning  Unnecessary semicolon                  no-extra-semi
+  102:10  warning  'selection' is defined but never used  no-unused-vars
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/selection-sort/simulation/js/realization.js
+  1:5  warning  'realizationCatalog' is assigned a value but never used  no-unused-vars
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/selection-sort/simulation/js/selection_demo.js
+   17:4   warning  Unnecessary semicolon                  no-extra-semi
+   18:2   warning  Unnecessary semicolon                  no-extra-semi
+  100:10  warning  'selection' is defined but never used  no-unused-vars
+  127:2   warning  Unnecessary semicolon                  no-extra-semi
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/selection-sort/simulation/js/selection_ex.js
+   21:4   warning  Unnecessary semicolon                  no-extra-semi
+   22:2   warning  Unnecessary semicolon                  no-extra-semi
+   46:11  warning  'i' is already defined                 no-redeclare
+  104:10  warning  'selection' is defined but never used  no-unused-vars
+  148:7   warning  'pause' is not defined                 no-undef
+  228:2   warning  Unnecessary semicolon                  no-extra-semi
+  232:2   warning  Unnecessary semicolon                  no-extra-semi
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/selection-sort/simulation/js/selection_practice.js
+  19:4   warning  Unnecessary semicolon                  no-extra-semi
+  20:2   warning  Unnecessary semicolon                  no-extra-semi
+  78:10  warning  'selection' is defined but never used  no-unused-vars
+
+/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/selection-sort/simulation/js/selection_time.js
+   19:4   warning  Unnecessary semicolon                  no-extra-semi
+   20:2   warning  Unnecessary semicolon                  no-extra-semi
+  102:10  warning  'selection' is defined but never used  no-unused-vars
+
+✖ 36 problems (0 errors, 36 warnings)
+  0 errors and 22 warnings potentially fixable with the `--fix` option.
+
