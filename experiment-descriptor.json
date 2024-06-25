@@ -2,6 +2,13 @@
   "unit-type": "lu",
   "label": "Selection Sort",
   "basedir": ".",
+  "code-assessment": {
+    "include": true,
+    "languages": [
+      "javascript"
+    ],
+    "position": 5
+  },
   "units": [
     {
       "unit-type": "aim"
@@ -20,7 +27,7 @@
       "source": "recap.md",
       "target": "recap.html"
     },
-	{
+    {
       "unit-type": "task",
       "label": "Pretest",
       "content-type": "assesment",
@@ -42,14 +49,13 @@
           "source": "overview.md",
           "target": "overview.html"
         },
-	{
+        {
           "unit-type": "task",
           "label": "Algorithm",
           "content-type": "video",
           "source": "selection-sort-algorithm.md",
           "target": "selection-sort-algorithm.html"
         },
-        
         {
           "unit-type": "task",
           "label": "Demo",
@@ -57,7 +63,6 @@
           "source": "simulation/selection_demo.html",
           "target": "selection_demo.html"
         },
-	
         {
           "unit-type": "task",
           "label": "Practice",
@@ -65,25 +70,23 @@
           "source": "simulation/selection_practice.html",
           "target": "selection_practice.html"
         },
-	{
+        {
           "unit-type": "task",
           "label": "Exercise",
           "content-type": "simulation",
           "source": "simulation/selection_ex.html",
           "target": "selection_ex.html"
         },
-	{
-      "unit-type": "task",
-      "label": "Quiz",
-      "content-type": "assesment",
-      "source": "selection-sort-quiz.json",
-      "target": "selection-sort-quiz.html"
-    }
-      
+        {
+          "unit-type": "task",
+          "label": "Quiz",
+          "content-type": "assesment",
+          "source": "selection-sort-quiz.json",
+          "target": "selection-sort-quiz.html"
+        }
       ]
     },
-   
-        {
+    {
       "unit-type": "lu",
       "label": "Analysis",
       "basedir": "analysis",
@@ -91,7 +94,7 @@
         {
           "unit-type": "aim"
         },
-	{
+        {
           "unit-type": "task",
           "label": "Overview",
           "content-type": "video",
@@ -105,7 +108,7 @@
           "source": "time-and-space-complexity.md",
           "target": "time-and-space-complexity.html"
         },
-	{
+        {
           "unit-type": "task",
           "label": "Demo",
           "content-type": "simulation",
@@ -119,16 +122,16 @@
           "source": "comparison-with-other-algorithms.md",
           "target": "comparison-with-other-algorithms.html"
         },
-	{
-      "unit-type": "task",
-      "label": "Quiz",
-      "content-type": "assesment",
-      "source": "analysis-quiz.json",
-      "target": "analysis-quiz.html"
-    }
+        {
+          "unit-type": "task",
+          "label": "Quiz",
+          "content-type": "assesment",
+          "source": "analysis-quiz.json",
+          "target": "analysis-quiz.html"
+        }
       ]
     },
-{
+    {
       "unit-type": "task",
       "label": "Posttest",
       "content-type": "assesment",
