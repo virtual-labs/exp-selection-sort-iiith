@@ -1,0 +1,15 @@
+{
+  _: [],
+  f: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/code-assessment.json'
+  ],
+  files: [
+    '/Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/code-assessment.json'
+  ],
+  '$0': 'validate'
+}
+/problems/2/expected: The expected should be an array
+
+Json Error: must match "then" schema
+Failed while validating /Users/joey/Documents/VirtualLabs/Data-Structures-2/exp-selection-sort-iiith/experiment/code-assessment.json
+Error: Schema is Invalid
