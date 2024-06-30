@@ -10,7 +10,8 @@
             ],
             "expected": [10, 13, 14, 29, 37],
             "inputs description": "Input consists of an array of unsorted array. It may be of arbitrary length.",
-            "expected description": "An array of numbers e.g. 1,2,4,5 sorted in ascending orders"
+            "expected description": "An array of numbers e.g. 1,2,4,5 sorted in ascending orders",
+            "difficulty": "beginner"
         },
         {
             "problem name": "Simulate Selection Sort Process",
@@ -21,7 +22,8 @@
             ],
             "expected": [10, 13, 14, 37, 29],
             "inputs description": "Input consists of an array of unsorted numbers, and an integer representing the number of selection sort steps to perform.",
-            "expected description": "An array representing the state of the input array after the given number of selection sort steps."
+            "expected description": "An array representing the state of the input array after the given number of selection sort steps.",
+            "difficulty": "intermediate"
         },
         {
             "problem name": "Selection Sort with Inversions Count",
@@ -31,7 +33,8 @@
             ],
             "expected": 4,
             "inputs description": "Input consists of an array of unsorted numbers.",
-            "expected description": "An integer representing the number of inversions required to sort the array."
+            "expected description": "An integer representing the number of inversions required to sort the array.",
+            "difficulty": "intermediate"
         }
 
     ]
