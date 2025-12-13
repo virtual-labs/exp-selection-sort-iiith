@@ -4,7 +4,11 @@
 		"a": "True",
 		"b": "False"
 	},
-	"correctAnswer": "a"
+	"correctAnswer": "a",
+	"explanations": {
+		"a": "Correct. Selection sort always performs O(N^2) comparisons regardless of the initial order of elements, making both average and worst-case time complexity the same.",
+		"b": "Incorrect. Selection sort does have the same time complexity for both average and worst cases."
+	}
 }, {
 	"question": "2. In which case selection sort can be used?",
 	"answers": {
@@ -13,7 +17,13 @@
 		"c": "Sorting without comparisons",
 		"d": "None of the above"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "b",
+	"explanations": {
+		"a": "Incorrect. Selection sort is not fast with O(N^2) time complexity.",
+		"b": "Correct. Selection sort is memory efficient as it sorts in-place with O(1) auxiliary space and performs minimal swaps.",
+		"c": "Incorrect. Selection sort requires comparisons to find the minimum element.",
+		"d": "Incorrect. Selection sort is useful for memory efficient sorting."
+	}
 }, {
 	"question": "3. Pick the incorrect step in selection sorting",
 	"answers": {
@@ -22,7 +32,13 @@
 		"c": "Swap the smallest element found with the element at index i. ",
 		"d": "None of the above"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "b",
+	"explanations": {
+		"a": "Incorrect. This is a correct step in selection sort.",
+		"b": "Correct. This is incorrect because we swap the smallest element with the element at index i, not with i+1.",
+		"c": "Incorrect. This is a correct step in selection sort.",
+		"d": "Incorrect. Option b is an incorrect step."
+	}
 }, {
 	"question": "4. What are the correct intermediate steps when you perform Selection Sort on [2, 7, -3, 5]? ",
 	"answers": {
@@ -31,7 +47,13 @@
 		"c": "[-3, 7, 5, 2] -> [-3, 2, 5, 7]",
 		"d": "[-3, 7, 2, 5] -> [-3, 5, 2, 7] -> [-3, 2, 5, 7]"
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "b",
+	"explanations": {
+		"a": "Incorrect. This skips an intermediate step.",
+		"b": "Correct. First swap -3 with 2: [-3, 7, 2, 5]. Then swap 2 with 7: [-3, 2, 7, 5]. Finally swap 5 with 7: [-3, 2, 5, 7].",
+		"c": "Incorrect. This doesn't follow the selection sort process correctly.",
+		"d": "Incorrect. This doesn't follow the selection sort process correctly."
+	}
 }, {
 	"question": "How many loops will be there in the Selection sort code?",
 	"answers": {
@@ -40,5 +62,11 @@
 		"c": "Two separate loops",
 		"d": "Three separate loops "
 	},
-	"correctAnswer": "b"
+	"correctAnswer": "b",
+	"explanations": {
+		"a": "Incorrect. Selection sort requires more than one loop.",
+		"b": "Correct. Selection sort uses two nested loops: outer loop for each position and inner loop to find the minimum element.",
+		"c": "Incorrect. The loops are nested, not separate.",
+		"d": "Incorrect. Selection sort uses two nested loops, not three separate loops."
+	}
 }]
