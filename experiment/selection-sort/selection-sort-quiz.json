@@ -6,7 +6,13 @@
 		"c": "N ",
 		"d": "N^2 "
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "c",
+	"explanations": {
+		"a": "Incorrect. The inner loop needs to check all remaining elements, not just half.",
+		"b": "Incorrect. The number of comparisons doesn't exceed the array size in one iteration.",
+		"c": "Correct. In the first iteration, we compare N-1 elements, which is approximately N comparisons.",
+		"d": "Incorrect. N^2 is the total number of comparisons for the entire algorithm, not one iteration."
+	}
 }, {
 	"question": "2. If an array is [6,1,9,10] which element will be sorted first by selection sort",
 	"answers": {
@@ -15,5 +21,11 @@
 		"c": "1",
 		"d": "6 "
 	},
-	"correctAnswer": "c"
+	"correctAnswer": "c",
+	"explanations": {
+		"a": "Incorrect. 9 is not the minimum element in the array.",
+		"b": "Incorrect. 10 is not the minimum element in the array.",
+		"c": "Correct. Selection sort finds the minimum element (1) first and places it in the first position.",
+		"d": "Incorrect. 6 is the current first element but not the minimum."
+	}
 }]

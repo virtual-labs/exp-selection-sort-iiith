@@ -4,7 +4,7 @@
     "problems": [
         {
             "problem name": "Basic Selection Sort",
-            "description": "Implement the selection sort algorithm for the given input array",
+            "description": "Implement the Selection Sort algorithm to sort an array of integers in ascending order. Selection Sort works by dividing the array into sorted and unsorted portions, repeatedly finding the minimum element from the unsorted portion and swapping it with the first unsorted element. In each iteration, scan the unsorted portion to find the minimum value, swap it with the element at the current position, and expand the sorted portion by one element until the entire array is sorted. Example: [29, 10, 14, 37, 13] should become [10, 13, 14, 29, 37]. Only JavaScript is allowed.",
             "inputs": [
                 [29, 10, 14, 37, 13]
             ],
@@ -15,7 +15,7 @@
         },
         {
             "problem name": "Simulate Selection Sort Process",
-            "description": "Given an unsorted array and a number of steps, return the state of the array after performing the given number of steps of the selection sort algorithm.",
+            "description": "Implement a Selection Sort simulator that returns the intermediate state of the array after performing a specified number of sorting steps. Each step consists of finding the minimum element in the remaining unsorted portion and swapping it with the first element of the unsorted portion, then advancing to the next position. Track the array state after each complete step and return the array configuration after exactly the specified number of steps have been executed. Example: Starting with [29, 10, 14, 37, 13] and performing 3 steps should yield [10, 13, 14, 37, 29] (after placing 10, 13, and 14 in their sorted positions). Only JavaScript is allowed.",
             "inputs": [
                 [29, 10, 14, 37, 13],
                 3
@@ -27,7 +27,7 @@
         },
         {
             "problem name": "Selection Sort with Inversions Count",
-            "description": "Implement the selection sort algorithm and count the number of inversions required to sort the array. An inversion is a pair of elements that are out of order.",
+            "description": "Implement Selection Sort while counting the total number of inversions in the original array. An inversion is a pair of indices (i, j) where i < j but array[i] > array[j], indicating elements that are out of their sorted order. As you perform the selection sort, count how many times each element needs to move past another element to reach its correct position, or alternatively count all inversions in the initial array before sorting. Example: [29, 10, 14, 37, 13] has 3 inversions: (29,10), (29,14), (29,13) - return 3 as the inversion count. Only JavaScript is allowed.",
             "inputs": [
                 [29, 10, 14, 37, 13]
             ],
