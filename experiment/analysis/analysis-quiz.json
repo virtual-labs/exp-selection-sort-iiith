@@ -1,27 +1,35 @@
-[{
-	"question": "1.  Selection sort is an unstable sorting algorithm",
-	"answers": {
-		"a": "True ",
-		"b": "False"
-	},
-	"correctAnswer": "b",
-	"explanations": {
-		"a": "Incorrect. Selection sort can be implemented as a stable sorting algorithm.",
-		"b": "Correct. Selection sort can be stable if implemented carefully to maintain the relative order of equal elements, though the standard implementation may not be stable."
-	}
-}, {
-	"question": "2. Pick the correct worst-case time complexity for the selection sort algorithm",
-	"answers": {
-		"a": "O(N) ",
-		"b": " O(NLogN)",
-		"c": "O(N^2) ",
-		"d": "O(N^3)"
-	},
-	"correctAnswer": "c",
-	"explanations": {
-		"a": "Incorrect. O(N) is too fast for selection sort which requires nested iterations.",
-		"b": "Incorrect. O(NLogN) is typical for efficient sorting algorithms like merge sort or quick sort.",
-		"c": "Correct. Selection sort has O(N^2) worst-case time complexity due to two nested loops.",
-		"d": "Incorrect. O(N^3) would require three nested loops, which selection sort doesn't have."
-	}
-}]
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Selection sort is an unstable sorting algorithm.",
+      "answers": {
+        "a": "True",
+        "b": "False"
+      },
+      "correctAnswer": "b",
+      "explanations": {
+        "a": "Incorrect. Selection sort can be implemented as a stable sorting algorithm if swaps are done carefully to preserve the order of equal elements.",
+        "b": "Correct. While the standard implementation may not be stable, selection sort can be made stable by avoiding unnecessary swaps."
+      },
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "2. What is the worst-case time complexity for the selection sort algorithm?",
+      "answers": {
+        "a": "O(N)",
+        "b": "O(NLogN)",
+        "c": "O(N^2)",
+        "d": "O(N^3)"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. O(N) is too fast for selection sort, which requires nested iterations.",
+        "b": "Incorrect. O(NLogN) is typical for more efficient algorithms like merge sort or quick sort.",
+        "c": "Correct. Selection sort has O(N^2) worst-case time complexity due to two nested loops.",
+        "d": "Incorrect. O(N^3) would require three nested loops, which selection sort does not have."
+      },
+      "difficulty": "beginner"
+    }
+  ]
+}
