@@ -1,31 +1,39 @@
-[{
-	"question": "1. What is the maximum number of comparisons in one iteration for an array of size N?",
-	"answers": {
-		"a": "N/2",
-		"b": "2*N ",
-		"c": "N ",
-		"d": "N^2 "
-	},
-	"correctAnswer": "c",
-	"explanations": {
-		"a": "Incorrect. The inner loop needs to check all remaining elements, not just half.",
-		"b": "Incorrect. The number of comparisons doesn't exceed the array size in one iteration.",
-		"c": "Correct. In the first iteration, we compare N-1 elements, which is approximately N comparisons.",
-		"d": "Incorrect. N^2 is the total number of comparisons for the entire algorithm, not one iteration."
-	}
-}, {
-	"question": "2. If an array is [6,1,9,10] which element will be sorted first by selection sort",
-	"answers": {
-		"a": "9 ",
-		"b": " 10",
-		"c": "1",
-		"d": "6 "
-	},
-	"correctAnswer": "c",
-	"explanations": {
-		"a": "Incorrect. 9 is not the minimum element in the array.",
-		"b": "Incorrect. 10 is not the minimum element in the array.",
-		"c": "Correct. Selection sort finds the minimum element (1) first and places it in the first position.",
-		"d": "Incorrect. 6 is the current first element but not the minimum."
-	}
-}]
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the maximum number of comparisons in one iteration for an array of size N?",
+      "answers": {
+        "a": "N/2",
+        "b": "2*N",
+        "c": "N",
+        "d": "N^2"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. The inner loop checks all remaining elements, not just half.",
+        "b": "Incorrect. The number of comparisons in one iteration does not exceed N.",
+        "c": "Correct. In the first iteration, we compare N-1 elements, which is approximately N comparisons.",
+        "d": "Incorrect. N^2 is the total number of comparisons for the entire algorithm, not one iteration."
+      },
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. If an array is [6,1,9,10], which element will be sorted first by selection sort?",
+      "answers": {
+        "a": "9",
+        "b": "10",
+        "c": "1",
+        "d": "6"
+      },
+      "correctAnswer": "c",
+      "explanations": {
+        "a": "Incorrect. 9 is not the minimum element in the array.",
+        "b": "Incorrect. 10 is not the minimum element in the array.",
+        "c": "Correct. Selection sort finds the minimum element (1) first and places it in the first position.",
+        "d": "Incorrect. 6 is the current first element but not the minimum."
+      },
+      "difficulty": "beginner"
+    }
+  ]
+}
